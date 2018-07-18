@@ -16,7 +16,7 @@ Requires:
 ### How to use API
 * Connect to server with `npm run start`.
 * Enter `http://localhost:3000` in your browser.
-* This API saves a single resource to MongoDB: Games. To the data, click the link provided on the splash page.
+* This API saves a single resource to MongoDB: Games. To see the data, click the link provided on the splash page.
 
 The following methods are used for the paths listed:
 
